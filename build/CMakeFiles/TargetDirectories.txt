@@ -1,0 +1,3 @@
+/home/toavina-jr/Documents/Projects/TileMap/build/CMakeFiles/TMX_Viewer.dir
+/home/toavina-jr/Documents/Projects/TileMap/build/CMakeFiles/edit_cache.dir
+/home/toavina-jr/Documents/Projects/TileMap/build/CMakeFiles/rebuild_cache.dir
